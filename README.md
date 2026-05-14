@@ -78,16 +78,16 @@
 |:---|:---|:---:|
 | 자동차 경주 | [javascript-racingcar-8](https://github.com/JetProc/javascript-racingcar-8) | Precourse |
 | 로또 | [javascript-lotto-8](https://github.com/JetProc/javascript-lotto-8) | Precourse |
-| 행성 로또 | [javascript-planetlotto-8](https://github.com/JetProc/javascript-planetlotto-8) | Final Test |
 | 계산기 | [javascript-calculator-8](https://github.com/JetProc/javascript-calculator-8) | Precourse |
 | 온콜 | [javascript-oncall-6](https://github.com/JetProc/javascript-oncall-6) | Precourse |
 | 출석 | [javascript-attendance-7](https://github.com/JetProc/javascript-attendance-7) | Precourse |
-| 로또 (레벨1) | [javascript-lotto](https://github.com/JetProc/javascript-lotto) | Level 1 |
-| 영화 리뷰 (레벨1) | [javascript-movie-review](https://github.com/JetProc/javascript-movie-review) | Level 1 |
 | 메뉴 추천 | [javascript-menu](https://github.com/JetProc/javascript-menu) | Precourse |
-| 페이먼츠 | [react-payments](https://github.com/JetProc/react-payments) | Level 2 |
+| 행성 로또 | [javascript-planetlotto-8](https://github.com/JetProc/javascript-planetlotto-8) | Final Test |
+| 로또 | [javascript-lotto](https://github.com/JetProc/javascript-lotto) | Level 1 |
+| 영화 리뷰 | [javascript-movie-review](https://github.com/JetProc/javascript-movie-review) | Level 1 |
 | Gemini Canvas | [gemini-canvas-mission](https://github.com/JetProc/gemini-canvas-mission) | Level 1 |
 | TS & 학습법 | [ts-and-learning](https://github.com/JetProc/ts-and-learning) | Level 1 |
+| 페이먼츠 | [react-payments](https://github.com/JetProc/react-payments) | Level 2 |
 
 </div>
 
