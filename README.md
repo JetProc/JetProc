@@ -42,7 +42,6 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
 <br />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
@@ -131,21 +130,14 @@
 
 ## ⏱️ Daily Commit Rhythm
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JetProc&theme=github_dark&utcOffset=9" />
+```text
+🌞 Morning     44 commits ██░░░░░░░░░░░░░░░░░░░ 11.6%
+🌆 Daytime    178 commits ██████████░░░░░░░░░░░ 46.8%
+🌃 Evening    122 commits ███████░░░░░░░░░░░░░░ 32.1%
+🌙 Night       36 commits ██░░░░░░░░░░░░░░░░░░░  9.5%
+```
 
 </div>
-
-<br />
-
-<div align="center">
-
-## 🌈 Contribution View
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="70%" loading="lazy" />
-
-</div>
-
-<br />
 
 <div align="center">
 
