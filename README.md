@@ -29,6 +29,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
 </div>
 
@@ -45,6 +50,70 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+## 📁 Projects
+
+| Category | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 🌐 Web | [zzimkkong-helper](https://github.com/JetProc/zzimkkong-helper) | 찜꽁 사이트 회의실·페어링존 예약을 돕는 Chrome 확장 프로그램 | JavaScript |
+| 🌐 Web | [precourse-badge-workshop-frontend](https://github.com/JetProc/precourse-badge-workshop-frontend) | 우테코 프리코스 활동 분석 결과를 동적 뱃지 카드로 렌더링하는 웹 뷰어 | React · Vite · Framer Motion |
+| 🌐 Web | [precourse-badge-workshop-backend](https://github.com/JetProc/precourse-badge-workshop-backend) | GitHub 활동 분석 후 카카오 챗봇 스킬로 훈장을 발급하는 백엔드 서버 | Node.js · Express |
+| 🌐 Web | [SaveEarth-SaveUs](https://github.com/JetProc/SaveEarth-SaveUs) | React 기반 환경 주제 웹 애플리케이션 | React |
+| 🌐 Web | [santa-fact-receipt](https://github.com/JetProc/santa-fact-receipt) | React + TypeScript + Vite 웹 프로젝트 | React · TypeScript · Vite |
+| 🌐 Web | [Polio](https://github.com/JetProc/Polio) | JavaScript 웹 프로젝트 | JavaScript |
+| 🌐 Web | [The_Proust_Effect](https://github.com/JetProc/The_Proust_Effect) | HTML 기반 웹 프로젝트 | HTML |
+| 🎮 Game | [Holdable2](https://github.com/JetProc/Holdable2) | Unity 엔진으로 제작한 모바일 게임 v2 | Unity · C# |
+| 🎮 Game | [Holdable](https://github.com/JetProc/Holdable) | Unity 기반 심플 모바일 게임 | Unity |
+| 🎮 Game | [defence-Hangeul](https://github.com/JetProc/defence-Hangeul) | C언어로 구현한 콘솔 한글 디펜스 게임 | C |
+| 🎮 Game | [SHIBAs-English-Class](https://github.com/JetProc/SHIBAs-English-Class) | C언어로 구현한 콘솔 영단어 학습 게임 | C |
+| 🧩 Tool | [haengseongi-codex-pet](https://github.com/JetProc/haengseongi-codex-pet) | Codex Desktop용 손그림 캐릭터 '행성이' 커스텀 펫 패키지 | Python |
+| ☕ App | [theCalen](https://github.com/JetProc/theCalen) | Java 기반 애플리케이션 | Java |
+
+</div>
+
+<br />
+
+<div align="center">
+
+## 🎓 Woowacourse Missions
+
+우아한테크코스(Woowacourse) 프리코스 및 레벨 미션 참여 이력입니다.
+
+| Mission | Repository | Level |
+|:---|:---|:---:|
+| 자동차 경주 | [javascript-racingcar-8](https://github.com/JetProc/javascript-racingcar-8) | Precourse |
+| 로또 | [javascript-lotto-8](https://github.com/JetProc/javascript-lotto-8) | Precourse |
+| 행성 로또 | [javascript-planetlotto-8](https://github.com/JetProc/javascript-planetlotto-8) | Precourse |
+| 계산기 | [javascript-calculator-8](https://github.com/JetProc/javascript-calculator-8) | Precourse |
+| 온콜 | [javascript-oncall-6](https://github.com/JetProc/javascript-oncall-6) | Precourse |
+| 출석 | [javascript-attendance-7](https://github.com/JetProc/javascript-attendance-7) | Precourse |
+| 로또 (레벨1) | [javascript-lotto](https://github.com/JetProc/javascript-lotto) | Level 1 |
+| 영화 리뷰 (레벨1) | [javascript-movie-review](https://github.com/JetProc/javascript-movie-review) | Level 1 |
+| 메뉴 추천 | [javascript-menu](https://github.com/JetProc/javascript-menu) | Level 1 |
+| 페이먼츠 | [react-payments](https://github.com/JetProc/react-payments) | Level 2 |
+| Gemini Canvas | [gemini-canvas-mission](https://github.com/JetProc/gemini-canvas-mission) | Level 2 |
+| TS & 학습법 | [ts-and-learning](https://github.com/JetProc/ts-and-learning) | Study |
+
+</div>
+
+<br />
+
+<div align="center">
+
+## 📚 Libraries Studied
+
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logoColor=white" />
+
+직접 포크하여 내부 구조와 동작 방식을 학습한 오픈소스 라이브러리들입니다.
+[cypress](https://github.com/JetProc/cypress) · [msw](https://github.com/JetProc/msw) · [lodash](https://github.com/JetProc/lodash) · [is.js](https://github.com/JetProc/is.js) · [ms](https://github.com/JetProc/ms)
 
 </div>
 
