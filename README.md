@@ -4,13 +4,6 @@
 
 <div align="center">
 
-# 안녕하세요, 권순재입니다.
-
-실용적인 자동화와 AI 도구를 만드는 개발자입니다.  
-복잡한 흐름을 조용하고 쓰기 쉬운 시스템으로 정리하는 일을 좋아합니다.
-
-`$ now` AI agents · automation · teaching tools
-
 <details>
   <summary>👀 Now Studying</summary>
   <br />
