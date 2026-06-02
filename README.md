@@ -65,6 +65,7 @@
 | Gemini Canvas | [gemini-canvas-mission](https://github.com/JetProc/gemini-canvas-mission) | Level 1 |
 | TS & 학습법 | [ts-and-learning](https://github.com/JetProc/ts-and-learning) | Level 1 |
 | 페이먼츠 | [react-payments](https://github.com/JetProc/react-payments) | Level 2 |
+| 장바구니 | [shopping-cart-full-stack](https://github.com/JetProc/shopping-cart-full-stack) | Level 2 |
 
 </div>
 
