@@ -110,6 +110,24 @@
 
 <div align="center">
 
+## 🌱 Open Source Contributions
+
+외부 오픈소스 저장소에 머지된 PR 기록입니다. 매일 자동 갱신됩니다.
+
+<!-- merged-contributions:start -->
+| Merged | Repository | Pull Request |
+|:---:|:---|:---|
+| 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
+| 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#15 Avoid duplicated infinite-scroll page loads](https://github.com/akan-team/akanjs/pull/15) |
+| 2026-05-31 | [toss/es-toolkit](https://github.com/toss/es-toolkit) | [#1726 fix\[isNumber\]: remove instanceof Number check](https://github.com/toss/es-toolkit/pull/1726) |
+<!-- merged-contributions:end -->
+
+</div>
+
+<br />
+
+<div align="center">
+
 ## 🏅 Stats
 
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=JetProc&show_icons=true&theme=github_dark&hide_border=true" />
