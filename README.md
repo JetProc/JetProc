@@ -53,23 +53,6 @@
 
 <div align="center">
 
-## 📁 Projects
-
-| Category | Project | Description | Tech |
-|:---:|:---|:---|:---:|
-| 🌐 Web | [zzimkkong-helper](https://github.com/JetProc/zzimkkong-helper) | 찜꽁 사이트 회의실·페어링존 예약을 돕는 Chrome 확장 프로그램 | JavaScript |
-| 🌐 Web | [precourse-badge-workshop-frontend](https://github.com/JetProc/precourse-badge-workshop-frontend) | 우테코 프리코스 활동 분석 결과를 동적 뱃지 카드로 렌더링하는 웹 뷰어 | React · Vite · Framer Motion |
-| 🌐 Web | [precourse-badge-workshop-backend](https://github.com/JetProc/precourse-badge-workshop-backend) | GitHub 활동 분석 후 카카오 챗봇 스킬로 훈장을 발급하는 백엔드 서버 | Node.js · Express |
-| 🌐 Web | [santa-fact-receipt](https://github.com/JetProc/santa-fact-receipt) | React + TypeScript + Vite 웹 프로젝트 | React · TypeScript · Vite |
-| 🌐 Web | [Polio](https://github.com/JetProc/Polio) | JavaScript 웹 프로젝트 | JavaScript |
-| 🧩 Tool | [haengseongi-codex-pet](https://github.com/JetProc/haengseongi-codex-pet) | Codex Desktop용 손그림 캐릭터 '행성이' 커스텀 펫 패키지 | Python |
-
-</div>
-
-<br />
-
-<div align="center">
-
 ## 🎓 Woowacourse Missions
 
 우아한테크코스(Woowacourse) 프리코스 및 레벨 미션 참여 이력입니다.
