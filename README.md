@@ -95,6 +95,7 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-06-23 | [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev) | [#1525 docs: translate warning pages](https://github.com/reactjs/ko.react.dev/pull/1525) |
 | 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
 | 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#15 Avoid duplicated infinite-scroll page loads](https://github.com/akan-team/akanjs/pull/15) |
 | 2026-05-31 | [toss/es-toolkit](https://github.com/toss/es-toolkit) | [#1726 fix\[isNumber\]: remove instanceof Number check](https://github.com/toss/es-toolkit/pull/1726) |
