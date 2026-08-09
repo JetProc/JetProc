@@ -95,6 +95,10 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#8 \[Docs\] #7 프로젝트 하네스 기본 기준 정리](https://github.com/woowacourse-teams/2026-rilog/pull/8) |
+| 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#6 \[Chore\] #5 저장소 공통 제외 규칙 설정](https://github.com/woowacourse-teams/2026-rilog/pull/6) |
+| 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#4 \[Chore\] #3 PR 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/4) |
+| 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#2 \[Chore\] #1 이슈 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/2) |
 | 2026-06-25 | [lodash/lodash](https://github.com/lodash/lodash) | [#6196 docs: fix typo contributing link in README](https://github.com/lodash/lodash/pull/6196) |
 | 2026-06-23 | [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev) | [#1525 docs: translate warning pages](https://github.com/reactjs/ko.react.dev/pull/1525) |
 | 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
