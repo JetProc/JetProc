@@ -95,6 +95,10 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#18 \[Chore\] #14 프론트엔드 디자인 토큰 구성](https://github.com/woowacourse-teams/2026-rilog/pull/18) |
+| 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#17 \[Docs\] #16 브랜치 명명 규칙 변경](https://github.com/woowacourse-teams/2026-rilog/pull/17) |
+| 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#10 \[Chore\] #9 프론트엔드 초기 세팅](https://github.com/woowacourse-teams/2026-rilog/pull/10) |
+| 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#12 \[Chore\] #11 파트별 리뷰어 자동 배정 설정](https://github.com/woowacourse-teams/2026-rilog/pull/12) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#8 \[Docs\] #7 프로젝트 하네스 기본 기준 정리](https://github.com/woowacourse-teams/2026-rilog/pull/8) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#6 \[Chore\] #5 저장소 공통 제외 규칙 설정](https://github.com/woowacourse-teams/2026-rilog/pull/6) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#4 \[Chore\] #3 PR 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/4) |
@@ -102,7 +106,6 @@
 | 2026-06-25 | [lodash/lodash](https://github.com/lodash/lodash) | [#6196 docs: fix typo contributing link in README](https://github.com/lodash/lodash/pull/6196) |
 | 2026-06-23 | [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev) | [#1525 docs: translate warning pages](https://github.com/reactjs/ko.react.dev/pull/1525) |
 | 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
-| 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#15 Avoid duplicated infinite-scroll page loads](https://github.com/akan-team/akanjs/pull/15) |
 | 2026-05-31 | [toss/es-toolkit](https://github.com/toss/es-toolkit) | [#1726 fix\[isNumber\]: remove instanceof Number check](https://github.com/toss/es-toolkit/pull/1726) |
 <!-- merged-contributions:end -->
 
