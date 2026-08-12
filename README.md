@@ -95,6 +95,8 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#29 \[Chore\] #25 프론트엔드 타입과 모듈 경계 규칙 통일](https://github.com/woowacourse-teams/2026-rilog/pull/29) |
+| 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#21 \[Feature\] #20 공용 버튼 컴포넌트 추가](https://github.com/woowacourse-teams/2026-rilog/pull/21) |
 | 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#18 \[Chore\] #14 프론트엔드 디자인 토큰 구성](https://github.com/woowacourse-teams/2026-rilog/pull/18) |
 | 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#17 \[Docs\] #16 브랜치 명명 규칙 변경](https://github.com/woowacourse-teams/2026-rilog/pull/17) |
 | 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#10 \[Chore\] #9 프론트엔드 초기 세팅](https://github.com/woowacourse-teams/2026-rilog/pull/10) |
@@ -105,8 +107,6 @@
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#2 \[Chore\] #1 이슈 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/2) |
 | 2026-06-25 | [lodash/lodash](https://github.com/lodash/lodash) | [#6196 docs: fix typo contributing link in README](https://github.com/lodash/lodash/pull/6196) |
 | 2026-06-23 | [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev) | [#1525 docs: translate warning pages](https://github.com/reactjs/ko.react.dev/pull/1525) |
-| 2026-06-02 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
-| 2026-05-31 | [toss/es-toolkit](https://github.com/toss/es-toolkit) | [#1726 fix\[isNumber\]: remove instanceof Number check](https://github.com/toss/es-toolkit/pull/1726) |
 <!-- merged-contributions:end -->
 
 </div>
