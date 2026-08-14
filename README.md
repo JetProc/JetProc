@@ -95,6 +95,7 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-14 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#126 \[Feature\] #40 블로그 글 작성 페이지 UI 구현](https://github.com/woowacourse-teams/2026-rilog/pull/126) |
 | 2026-08-13 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#35 \[Feature\] #22 공용 모달 컴포넌트 구현](https://github.com/woowacourse-teams/2026-rilog/pull/35) |
 | 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#29 \[Chore\] #25 프론트엔드 타입과 모듈 경계 규칙 통일](https://github.com/woowacourse-teams/2026-rilog/pull/29) |
 | 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#21 \[Feature\] #20 공용 버튼 컴포넌트 추가](https://github.com/woowacourse-teams/2026-rilog/pull/21) |
@@ -106,7 +107,6 @@
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#6 \[Chore\] #5 저장소 공통 제외 규칙 설정](https://github.com/woowacourse-teams/2026-rilog/pull/6) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#4 \[Chore\] #3 PR 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/4) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#2 \[Chore\] #1 이슈 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/2) |
-| 2026-06-25 | [lodash/lodash](https://github.com/lodash/lodash) | [#6196 docs: fix typo contributing link in README](https://github.com/lodash/lodash/pull/6196) |
 <!-- merged-contributions:end -->
 
 </div>
