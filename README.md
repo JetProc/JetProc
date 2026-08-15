@@ -95,6 +95,7 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-15 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#143 \[Feature\] #81 피드 페이지 UI와 무한 스크롤 구현](https://github.com/woowacourse-teams/2026-rilog/pull/143) |
 | 2026-08-14 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#126 \[Feature\] #40 블로그 글 작성 페이지 UI 구현](https://github.com/woowacourse-teams/2026-rilog/pull/126) |
 | 2026-08-13 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#35 \[Feature\] #22 공용 모달 컴포넌트 구현](https://github.com/woowacourse-teams/2026-rilog/pull/35) |
 | 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#29 \[Chore\] #25 프론트엔드 타입과 모듈 경계 규칙 통일](https://github.com/woowacourse-teams/2026-rilog/pull/29) |
@@ -105,7 +106,6 @@
 | 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#12 \[Chore\] #11 파트별 리뷰어 자동 배정 설정](https://github.com/woowacourse-teams/2026-rilog/pull/12) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#8 \[Docs\] #7 프로젝트 하네스 기본 기준 정리](https://github.com/woowacourse-teams/2026-rilog/pull/8) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#6 \[Chore\] #5 저장소 공통 제외 규칙 설정](https://github.com/woowacourse-teams/2026-rilog/pull/6) |
-| 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#4 \[Chore\] #3 PR 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/4) |
 | 2026-08-09 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#2 \[Chore\] #1 이슈 템플릿 설정](https://github.com/woowacourse-teams/2026-rilog/pull/2) |
 <!-- merged-contributions:end -->
 
