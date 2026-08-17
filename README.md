@@ -95,6 +95,9 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#185 \[Fix\] #184 피드 게시글 상세 링크 slug 보존](https://github.com/woowacourse-teams/2026-rilog/pull/185) |
+| 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#178 \[Refactor\] #167 라우트 경로 정리](https://github.com/woowacourse-teams/2026-rilog/pull/178) |
+| 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#157 \[Chore\] #155 공통 레이아웃 및 피드 UI 정리](https://github.com/woowacourse-teams/2026-rilog/pull/157) |
 | 2026-08-16 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#150 \[Feature\] #139 팀 설정 프로필 페이지 구현](https://github.com/woowacourse-teams/2026-rilog/pull/150) |
 | 2026-08-16 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#69 \[Feature\] #41 Footer 컴포넌트 구현](https://github.com/woowacourse-teams/2026-rilog/pull/69) |
 | 2026-08-16 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#151 \[Feature\] #141 팀 설정 위험 영역 페이지 구현](https://github.com/woowacourse-teams/2026-rilog/pull/151) |
@@ -103,10 +106,7 @@
 | 2026-08-15 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#143 \[Feature\] #81 피드 페이지 UI와 무한 스크롤 구현](https://github.com/woowacourse-teams/2026-rilog/pull/143) |
 | 2026-08-14 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#126 \[Feature\] #40 블로그 글 작성 페이지 UI 구현](https://github.com/woowacourse-teams/2026-rilog/pull/126) |
 | 2026-08-13 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#35 \[Feature\] #22 공용 모달 컴포넌트 구현](https://github.com/woowacourse-teams/2026-rilog/pull/35) |
-| 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#29 \[Chore\] #25 프론트엔드 타입과 모듈 경계 규칙 통일](https://github.com/woowacourse-teams/2026-rilog/pull/29) |
 | 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#21 \[Feature\] #20 공용 버튼 컴포넌트 추가](https://github.com/woowacourse-teams/2026-rilog/pull/21) |
-| 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#18 \[Chore\] #14 프론트엔드 디자인 토큰 구성](https://github.com/woowacourse-teams/2026-rilog/pull/18) |
-| 2026-08-11 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#17 \[Docs\] #16 브랜치 명명 규칙 변경](https://github.com/woowacourse-teams/2026-rilog/pull/17) |
 <!-- merged-contributions:end -->
 
 </div>
