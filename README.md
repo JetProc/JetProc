@@ -95,6 +95,8 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-18 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#190 \[Fix\]  #189 피드 응답 필드명/소유자 구조 통일 반영](https://github.com/woowacourse-teams/2026-rilog/pull/190) |
+| 2026-08-18 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#188 \[Feature\]#186 게시글 상세 조회 api 구현](https://github.com/woowacourse-teams/2026-rilog/pull/188) |
 | 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#185 \[Fix\] #184 피드 게시글 상세 링크 slug 보존](https://github.com/woowacourse-teams/2026-rilog/pull/185) |
 | 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#178 \[Refactor\] #167 라우트 경로 정리](https://github.com/woowacourse-teams/2026-rilog/pull/178) |
 | 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#157 \[Chore\] #155 공통 레이아웃 및 피드 UI 정리](https://github.com/woowacourse-teams/2026-rilog/pull/157) |
@@ -105,8 +107,6 @@
 | 2026-08-16 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#149 \[Chore\] #120 SVGR 기반 아이콘 사용 환경 설정](https://github.com/woowacourse-teams/2026-rilog/pull/149) |
 | 2026-08-15 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#143 \[Feature\] #81 피드 페이지 UI와 무한 스크롤 구현](https://github.com/woowacourse-teams/2026-rilog/pull/143) |
 | 2026-08-14 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#126 \[Feature\] #40 블로그 글 작성 페이지 UI 구현](https://github.com/woowacourse-teams/2026-rilog/pull/126) |
-| 2026-08-13 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#35 \[Feature\] #22 공용 모달 컴포넌트 구현](https://github.com/woowacourse-teams/2026-rilog/pull/35) |
-| 2026-08-12 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#21 \[Feature\] #20 공용 버튼 컴포넌트 추가](https://github.com/woowacourse-teams/2026-rilog/pull/21) |
 <!-- merged-contributions:end -->
 
 </div>
