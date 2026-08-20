@@ -95,18 +95,18 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#260 \[Feature\] #245 코로그 설정 버튼 조건부 렌더링 및 접근 제어 구현](https://github.com/woowacourse-teams/2026-rilog/pull/260) |
+| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#257 \[Feature\] #212 게시글 발행 API 및 이미지 업로드 연동](https://github.com/woowacourse-teams/2026-rilog/pull/257) |
+| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#255 \[Feature\] #247 팀 설정 프로필 탭 실데이터 연동](https://github.com/woowacourse-teams/2026-rilog/pull/255) |
+| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#249 \[Fix\] #248 API 요청에 refresh 토큰 쿠키 포함](https://github.com/woowacourse-teams/2026-rilog/pull/249) |
+| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#244 \[Feature\] #214 팀 블로그 멤버 초대 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/244) |
+| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#241 \[Feature\] #215 팀 블로그 멤버 목록 조회 API 연동](https://github.com/woowacourse-teams/2026-rilog/pull/241) |
 | 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#237 \[Hotfix\] #236 멤버 모의 데이터 누락 복구](https://github.com/woowacourse-teams/2026-rilog/pull/237) |
 | 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#235 \[Feature\] #213 팀 블로그 생성 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/235) |
 | 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#226 \[Feature\] #211 코로그 홈 게시글 피드 조회 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/226) |
 | 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#208 \[Feature\] #207 getpublicprofile api 프론트엔드 연동](https://github.com/woowacourse-teams/2026-rilog/pull/208) |
 | 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#206 \[Feature\] #205 파일 업로드 api 구현](https://github.com/woowacourse-teams/2026-rilog/pull/206) |
 | 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#203 \[Refactor\] #196 프론트엔드 모델 구조 리팩터링](https://github.com/woowacourse-teams/2026-rilog/pull/203) |
-| 2026-08-18 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#190 \[Fix\]  #189 피드 응답 필드명/소유자 구조 통일 반영](https://github.com/woowacourse-teams/2026-rilog/pull/190) |
-| 2026-08-18 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#188 \[Feature\]#186 게시글 상세 조회 api 구현](https://github.com/woowacourse-teams/2026-rilog/pull/188) |
-| 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#185 \[Fix\] #184 피드 게시글 상세 링크 slug 보존](https://github.com/woowacourse-teams/2026-rilog/pull/185) |
-| 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#178 \[Refactor\] #167 라우트 경로 정리](https://github.com/woowacourse-teams/2026-rilog/pull/178) |
-| 2026-08-17 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#157 \[Chore\] #155 공통 레이아웃 및 피드 UI 정리](https://github.com/woowacourse-teams/2026-rilog/pull/157) |
-| 2026-08-16 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#150 \[Feature\] #139 팀 설정 프로필 페이지 구현](https://github.com/woowacourse-teams/2026-rilog/pull/150) |
 <!-- merged-contributions:end -->
 
 </div>
