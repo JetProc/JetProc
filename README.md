@@ -95,6 +95,9 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#307 \[Chore\] #306 프론트엔드 린트 정리](https://github.com/woowacourse-teams/2026-rilog/pull/307) |
+| 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#304 \[Fix\] #296 모바일 경험 UI ux 개선](https://github.com/woowacourse-teams/2026-rilog/pull/304) |
+| 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#301 \[Feature\] #294 슬래시 메뉴 위치 개선](https://github.com/woowacourse-teams/2026-rilog/pull/301) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#302 \[Feature\] #295 특수 블록 여백 개선](https://github.com/woowacourse-teams/2026-rilog/pull/302) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#298 \[Fix\] #293 게시글 상세 토글 블록 동작 복구](https://github.com/woowacourse-teams/2026-rilog/pull/298) |
 | 2026-08-21 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#281 \[Feature\] #277 팀 프로필 수정 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/281) |
@@ -104,9 +107,6 @@
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#255 \[Feature\] #247 팀 설정 프로필 탭 실데이터 연동](https://github.com/woowacourse-teams/2026-rilog/pull/255) |
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#249 \[Fix\] #248 API 요청에 refresh 토큰 쿠키 포함](https://github.com/woowacourse-teams/2026-rilog/pull/249) |
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#244 \[Feature\] #214 팀 블로그 멤버 초대 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/244) |
-| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#241 \[Feature\] #215 팀 블로그 멤버 목록 조회 API 연동](https://github.com/woowacourse-teams/2026-rilog/pull/241) |
-| 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#237 \[Hotfix\] #236 멤버 모의 데이터 누락 복구](https://github.com/woowacourse-teams/2026-rilog/pull/237) |
-| 2026-08-19 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#235 \[Feature\] #213 팀 블로그 생성 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/235) |
 <!-- merged-contributions:end -->
 
 </div>
