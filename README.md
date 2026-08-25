@@ -95,6 +95,8 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#322 \[Feature\] #312 PostHog 사용자 행동 모니터링 도입](https://github.com/woowacourse-teams/2026-rilog/pull/322) |
+| 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#311 \[Feature\] #309 개인 블로그 UI 프로필 이동](https://github.com/woowacourse-teams/2026-rilog/pull/311) |
 | 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#307 \[Chore\] #306 프론트엔드 린트 정리](https://github.com/woowacourse-teams/2026-rilog/pull/307) |
 | 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#304 \[Fix\] #296 모바일 경험 UI ux 개선](https://github.com/woowacourse-teams/2026-rilog/pull/304) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#301 \[Feature\] #294 슬래시 메뉴 위치 개선](https://github.com/woowacourse-teams/2026-rilog/pull/301) |
@@ -105,8 +107,6 @@
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#260 \[Feature\] #245 코로그 설정 버튼 조건부 렌더링 및 접근 제어 구현](https://github.com/woowacourse-teams/2026-rilog/pull/260) |
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#257 \[Feature\] #212 게시글 발행 API 및 이미지 업로드 연동](https://github.com/woowacourse-teams/2026-rilog/pull/257) |
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#255 \[Feature\] #247 팀 설정 프로필 탭 실데이터 연동](https://github.com/woowacourse-teams/2026-rilog/pull/255) |
-| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#249 \[Fix\] #248 API 요청에 refresh 토큰 쿠키 포함](https://github.com/woowacourse-teams/2026-rilog/pull/249) |
-| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#244 \[Feature\] #214 팀 블로그 멤버 초대 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/244) |
 <!-- merged-contributions:end -->
 
 </div>
