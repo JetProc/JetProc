@@ -95,6 +95,8 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#381 \[Feature\] #378 PostHog P0 유저 모니터링 고도화](https://github.com/woowacourse-teams/2026-rilog/pull/381) |
+| 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#336 \[Feature\] #333 개인 프로필 수정](https://github.com/woowacourse-teams/2026-rilog/pull/336) |
 | 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#322 \[Feature\] #312 PostHog 사용자 행동 모니터링 도입](https://github.com/woowacourse-teams/2026-rilog/pull/322) |
 | 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#311 \[Feature\] #309 개인 블로그 UI 프로필 이동](https://github.com/woowacourse-teams/2026-rilog/pull/311) |
 | 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#307 \[Chore\] #306 프론트엔드 린트 정리](https://github.com/woowacourse-teams/2026-rilog/pull/307) |
@@ -105,8 +107,6 @@
 | 2026-08-21 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#281 \[Feature\] #277 팀 프로필 수정 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/281) |
 | 2026-08-21 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#269 \[Feature\] #265 코로그 프로필 이미지 멤버 연동](https://github.com/woowacourse-teams/2026-rilog/pull/269) |
 | 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#260 \[Feature\] #245 코로그 설정 버튼 조건부 렌더링 및 접근 제어 구현](https://github.com/woowacourse-teams/2026-rilog/pull/260) |
-| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#257 \[Feature\] #212 게시글 발행 API 및 이미지 업로드 연동](https://github.com/woowacourse-teams/2026-rilog/pull/257) |
-| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#255 \[Feature\] #247 팀 설정 프로필 탭 실데이터 연동](https://github.com/woowacourse-teams/2026-rilog/pull/255) |
 <!-- merged-contributions:end -->
 
 </div>
