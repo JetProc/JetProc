@@ -95,6 +95,8 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-08-31 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#410 \[Docs\] #408 공통 README 개편](https://github.com/woowacourse-teams/2026-rilog/pull/410) |
+| 2026-08-31 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#405 \[Feature\] #404 챕터 API와 조회·변경 훅 제공](https://github.com/woowacourse-teams/2026-rilog/pull/405) |
 | 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#381 \[Feature\] #378 PostHog P0 유저 모니터링 고도화](https://github.com/woowacourse-teams/2026-rilog/pull/381) |
 | 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#336 \[Feature\] #333 개인 프로필 수정](https://github.com/woowacourse-teams/2026-rilog/pull/336) |
 | 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#322 \[Feature\] #312 PostHog 사용자 행동 모니터링 도입](https://github.com/woowacourse-teams/2026-rilog/pull/322) |
@@ -105,8 +107,6 @@
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#302 \[Feature\] #295 특수 블록 여백 개선](https://github.com/woowacourse-teams/2026-rilog/pull/302) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#298 \[Fix\] #293 게시글 상세 토글 블록 동작 복구](https://github.com/woowacourse-teams/2026-rilog/pull/298) |
 | 2026-08-21 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#281 \[Feature\] #277 팀 프로필 수정 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/281) |
-| 2026-08-21 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#269 \[Feature\] #265 코로그 프로필 이미지 멤버 연동](https://github.com/woowacourse-teams/2026-rilog/pull/269) |
-| 2026-08-20 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#260 \[Feature\] #245 코로그 설정 버튼 조건부 렌더링 및 접근 제어 구현](https://github.com/woowacourse-teams/2026-rilog/pull/260) |
 <!-- merged-contributions:end -->
 
 </div>
