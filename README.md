@@ -95,6 +95,8 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-09-01 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#435 \[Fix\] #430 날짜 분석 프로필 버그 수정 및 QA 반영](https://github.com/woowacourse-teams/2026-rilog/pull/435) |
+| 2026-09-01 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#419 \[Feature\] #418 프로필 홈 발행 구조 탐색 UI 추가](https://github.com/woowacourse-teams/2026-rilog/pull/419) |
 | 2026-08-31 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#410 \[Docs\] #408 공통 README 개편](https://github.com/woowacourse-teams/2026-rilog/pull/410) |
 | 2026-08-31 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#405 \[Feature\] #404 챕터 API와 조회·변경 훅 제공](https://github.com/woowacourse-teams/2026-rilog/pull/405) |
 | 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#381 \[Feature\] #378 PostHog P0 유저 모니터링 고도화](https://github.com/woowacourse-teams/2026-rilog/pull/381) |
@@ -105,8 +107,6 @@
 | 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#304 \[Fix\] #296 모바일 경험 UI ux 개선](https://github.com/woowacourse-teams/2026-rilog/pull/304) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#301 \[Feature\] #294 슬래시 메뉴 위치 개선](https://github.com/woowacourse-teams/2026-rilog/pull/301) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#302 \[Feature\] #295 특수 블록 여백 개선](https://github.com/woowacourse-teams/2026-rilog/pull/302) |
-| 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#298 \[Fix\] #293 게시글 상세 토글 블록 동작 복구](https://github.com/woowacourse-teams/2026-rilog/pull/298) |
-| 2026-08-21 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#281 \[Feature\] #277 팀 프로필 수정 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/281) |
 <!-- merged-contributions:end -->
 
 </div>
