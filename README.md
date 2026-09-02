@@ -95,16 +95,16 @@
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
+| 2026-09-02 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#457 \[Refactor\] #456 Colog 용어 통일](https://github.com/woowacourse-teams/2026-rilog/pull/457) |
+| 2026-09-02 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#452 \[Fix\] #451 게시 모달 시리즈 추가 UI와 코로그 메뉴 레이어 수정](https://github.com/woowacourse-teams/2026-rilog/pull/452) |
+| 2026-09-02 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#447 \[Feature\] #440 공개 콘텐츠 SEO 메타데이터와 크롤러 정책 구축](https://github.com/woowacourse-teams/2026-rilog/pull/447) |
+| 2026-09-02 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#437 \[Feature\] #427 코로그 개인 프로필 홈 인덱스 api 연동](https://github.com/woowacourse-teams/2026-rilog/pull/437) |
 | 2026-09-01 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#435 \[Fix\] #430 날짜 분석 프로필 버그 수정 및 QA 반영](https://github.com/woowacourse-teams/2026-rilog/pull/435) |
 | 2026-09-01 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#419 \[Feature\] #418 프로필 홈 발행 구조 탐색 UI 추가](https://github.com/woowacourse-teams/2026-rilog/pull/419) |
 | 2026-08-31 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#410 \[Docs\] #408 공통 README 개편](https://github.com/woowacourse-teams/2026-rilog/pull/410) |
 | 2026-08-31 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#405 \[Feature\] #404 챕터 API와 조회·변경 훅 제공](https://github.com/woowacourse-teams/2026-rilog/pull/405) |
 | 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#381 \[Feature\] #378 PostHog P0 유저 모니터링 고도화](https://github.com/woowacourse-teams/2026-rilog/pull/381) |
 | 2026-08-27 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#336 \[Feature\] #333 개인 프로필 수정](https://github.com/woowacourse-teams/2026-rilog/pull/336) |
-| 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#322 \[Feature\] #312 PostHog 사용자 행동 모니터링 도입](https://github.com/woowacourse-teams/2026-rilog/pull/322) |
-| 2026-08-25 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#311 \[Feature\] #309 개인 블로그 UI 프로필 이동](https://github.com/woowacourse-teams/2026-rilog/pull/311) |
-| 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#307 \[Chore\] #306 프론트엔드 린트 정리](https://github.com/woowacourse-teams/2026-rilog/pull/307) |
-| 2026-08-24 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#304 \[Fix\] #296 모바일 경험 UI ux 개선](https://github.com/woowacourse-teams/2026-rilog/pull/304) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#301 \[Feature\] #294 슬래시 메뉴 위치 개선](https://github.com/woowacourse-teams/2026-rilog/pull/301) |
 | 2026-08-23 | [woowacourse-teams/2026-rilog](https://github.com/woowacourse-teams/2026-rilog) | [#302 \[Feature\] #295 특수 블록 여백 개선](https://github.com/woowacourse-teams/2026-rilog/pull/302) |
 <!-- merged-contributions:end -->
