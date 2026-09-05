@@ -90,8 +90,6 @@
 
 ## 🌱 Open Source Contributions
 
-외부 오픈소스 저장소에 머지된 PR 기록입니다. 매일 자동 갱신됩니다.
-
 <!-- merged-contributions:start -->
 | Merged | Repository | Pull Request |
 |:---:|:---|:---|
