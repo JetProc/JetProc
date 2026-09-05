@@ -21,6 +21,7 @@ jobs:
           MAX_ITEMS: "12"
           FETCH_LIMIT: "60"
           EXCLUDED_OWNERS: JetProc,woowacourse,woowacourse-study
+          EXCLUDED_REPOS: woowacourse-teams/2026-rilog
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/update_merged_contributions.py
 

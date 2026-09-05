@@ -64,9 +64,11 @@ def search_merged_pull_requests(
     excluded_owners: set[str],
     fetch_limit: int,
     token: str | None,
+    excluded_repos: set[str] | None = None,
 ) -> list[dict[str, Any]]:
     exclusions = " ".join(f"-user:{owner}" for owner in sorted(excluded_owners))
-    query = f"is:pr is:merged author:{username} archived:false {exclusions}".strip()
+    repo_exclusions = " ".join(f"-repo:{repo}" for repo in sorted(excluded_repos or set()))
+    query = f"is:pr is:merged author:{username} archived:false {exclusions} {repo_exclusions}".strip()
     params = urlencode(
         {
             "q": query,
@@ -98,6 +100,7 @@ def normalize_pull_requests(
     excluded_owners: set[str],
     max_items: int,
     token: str | None,
+    excluded_repos: set[str] | None = None,
 ) -> list[dict[str, str]]:
     username_lower = username.lower()
     seen_urls: set[str] = set()
@@ -115,6 +118,9 @@ def normalize_pull_requests(
         repo_full_name = repo.get("full_name")
         repo_url = repo.get("html_url")
         if not repo_full_name or not repo_url:
+            continue
+
+        if repo_full_name.lower() in (excluded_repos or set()):
             continue
 
         owner = owner_from_full_name(repo_full_name)
@@ -205,10 +211,11 @@ def main() -> int:
     fetch_limit = env_int("FETCH_LIMIT", max(max_items * 4, 40))
     excluded_owners = split_csv(os.environ.get("EXCLUDED_OWNERS"))
     excluded_owners.add(username.lower())
+    excluded_repos = split_csv(os.environ.get("EXCLUDED_REPOS"))
     token = os.environ.get("CONTRIBUTIONS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
-    items = search_merged_pull_requests(username, excluded_owners, fetch_limit, token)
-    rows = normalize_pull_requests(items, username, excluded_owners, max_items, token)
+    items = search_merged_pull_requests(username, excluded_owners, fetch_limit, token, excluded_repos)
+    rows = normalize_pull_requests(items, username, excluded_owners, max_items, token, excluded_repos)
 
     readme = readme_path.read_text(encoding="utf-8")
     updated = replace_marker_block(readme, render_rows(rows))
