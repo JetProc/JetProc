@@ -73,21 +73,6 @@
 
 <div align="center">
 
-## 📚 Libraries Studied
-
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logoColor=white" />
-
-직접 포크하여 내부 구조와 동작 방식을 학습한 오픈소스 라이브러리들입니다.
-[cypress](https://github.com/JetProc/cypress) · [msw](https://github.com/JetProc/msw) · [lodash](https://github.com/JetProc/lodash) · [is.js](https://github.com/JetProc/is.js) · [ms](https://github.com/JetProc/ms)
-
-</div>
-
-<br />
-
-<div align="center">
-
 ## 🌱 Open Source Contributions
 
 <!-- merged-contributions:start -->
