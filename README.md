@@ -2,36 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=fadeIn&fontColor=434242&fontSize=50" />
 </div>
 
-- **2019–2021** · 한국디지털미디어고등학교 웹프로그래밍과
-- **2022–현재** · 인하대학교 공과대학 정보통신공학과
-- **2024.04–2026.01** · 국방통합데이터센터 보안관제
-- **2026.02–현재** · 우아한테크코스 8기 프론트엔드 크루
-
-## 대표 프로젝트
-
-### [Rilog](https://github.com/woowacourse-teams/2026-rilog)
-
-개인 블로그와 팀 블로그인 **Co-log**를 함께 운영할 수 있는 기록 서비스입니다. 프론트엔드 개발에 참여하고 있습니다.
-
-- **블로그 탐색과 서버 상태 관리** · 시리즈·챕터·코로그 필터를 URL로 관리하고, 서버에서 미리 조회한 데이터를 화면에 연결했습니다. 인덱스 조회가 실패해도 프로필과 게시글은 유지하도록 처리했습니다. [PR #437](https://github.com/woowacourse-teams/2026-rilog/pull/437)
-- **공개 콘텐츠 SEO** · 블로그·게시글별 메타데이터와 대표 URL, 크롤러 정책을 적용했습니다. 일시적인 API 오류를 404로 처리하지 않도록 조회 오류 처리를 개선했습니다. [PR #447](https://github.com/woowacourse-teams/2026-rilog/pull/447)
-
-Next.js · React · TypeScript · TanStack Query
-
-<br />
-
-<div align="center">
-
-<details>
-  <summary>👀 Now Studying</summary>
-  <br />
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</details>
-
-</div>
-
 <div align="center">
 
 ## 🛠️ Tech Stacks
@@ -48,18 +18,10 @@ Next.js · React · TypeScript · TanStack Query
 
 <br />
 
-<div align="center">
-
-## 🔧 Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-<br />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-
-</div>
+- **2019–2021** · 한국디지털미디어고등학교 웹프로그래밍과
+- **2022–현재** · 인하대학교 공과대학 정보통신공학과
+- **2024.04–2026.01** · 국방통합데이터센터 보안관제
+- **2026.02–현재** · 우아한테크코스 8기 프론트엔드 크루
 
 <br />
 
@@ -85,17 +47,6 @@ Next.js · React · TypeScript · TanStack Query
 <!-- merged-contributions:end -->
 
 </details>
-
-<br />
-
-<div align="center">
-
-## 🏅 Stats
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=JetProc&show_icons=true&theme=github_dark&hide_border=true" />
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JetProc&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
 
 <br />
 
