@@ -26,12 +26,6 @@ CONTRIBUTION_SUMMARIES = {
     "https://github.com/reactjs/ko.react.dev/pull/1525": "테스트 도구 지원 중단 안내 한국어 번역",
     "https://github.com/lodash/lodash/pull/6196": "기여 가이드 링크 오류 수정",
 }
-PROJECT_NAMES = {
-    "toss/es-toolkit": "es-toolkit",
-    "akan-team/akanjs": "Akan.js",
-    "reactjs/ko.react.dev": "React",
-    "lodash/lodash": "Lodash",
-}
 
 
 def env_int(name: str, default: int) -> int:
@@ -180,17 +174,18 @@ def render_rows(rows: list[dict[str, str]]) -> str:
         return EMPTY_MESSAGE
 
     lines = [
-        "| 프로젝트 | 기여 내용 | PR |",
-        "|:---|:---|:---:|",
+        "| 저장소 | 기여 내용 | PR |",
+        "|:---|:---|:---|",
     ]
 
     for row in rows:
-        title = escape_markdown(CONTRIBUTION_SUMMARIES.get(row["url"], row["title"]))
-        repo = escape_markdown(PROJECT_NAMES.get(row["repo"], row["repo"]))
+        summary = escape_markdown(CONTRIBUTION_SUMMARIES.get(row["url"], row["title"]))
+        title = escape_markdown(row["title"])
+        repo = escape_markdown(row["repo"])
         number = escape_markdown(row["number"])
         lines.append(
-            f"| [{repo}]({row['repo_url']}) | {title} | "
-            f"[#{number}]({row['url']}) |"
+            f"| [{repo}]({row['repo_url']}) | {summary} | "
+            f"[#{number} {title}]({row['url']}) |"
         )
 
     return "\n".join(lines)

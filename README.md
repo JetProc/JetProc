@@ -39,13 +39,13 @@
 ## 🌱 Open Source Contributions
 
 <!-- merged-contributions:start -->
-| 프로젝트 | 기여 내용 | PR |
-|:---|:---|:---:|
-| [Lodash](https://github.com/lodash/lodash) | 기여 가이드 링크 오류 수정 | [#6196](https://github.com/lodash/lodash/pull/6196) |
-| [React](https://github.com/reactjs/ko.react.dev) | 테스트 도구 지원 중단 안내 한국어 번역 | [#1525](https://github.com/reactjs/ko.react.dev/pull/1525) |
-| [Akan.js](https://github.com/akan-team/akanjs) | 파일 미리보기 URL 경로 오류 수정 | [#16](https://github.com/akan-team/akanjs/pull/16) |
-| [Akan.js](https://github.com/akan-team/akanjs) | 무한 스크롤 중복 요청 수정 | [#15](https://github.com/akan-team/akanjs/pull/15) |
-| [es-toolkit](https://github.com/toss/es-toolkit) | isNumber 판별 기준을 다른 타입 가드와 일치하도록 수정 | [#1726](https://github.com/toss/es-toolkit/pull/1726) |
+| 저장소 | 기여 내용 | PR |
+|:---|:---|:---|
+| [lodash/lodash](https://github.com/lodash/lodash) | 기여 가이드 링크 오류 수정 | [#6196 docs: fix typo contributing link in README](https://github.com/lodash/lodash/pull/6196) |
+| [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev) | 테스트 도구 지원 중단 안내 한국어 번역 | [#1525 docs: translate warning pages](https://github.com/reactjs/ko.react.dev/pull/1525) |
+| [akan-team/akanjs](https://github.com/akan-team/akanjs) | 파일 미리보기 URL 경로 오류 수정 | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
+| [akan-team/akanjs](https://github.com/akan-team/akanjs) | 무한 스크롤 중복 요청 수정 | [#15 Avoid duplicated infinite-scroll page loads](https://github.com/akan-team/akanjs/pull/15) |
+| [toss/es-toolkit](https://github.com/toss/es-toolkit) | isNumber 판별 기준을 다른 타입 가드와 일치하도록 수정 | [#1726 fix\[isNumber\]: remove instanceof Number check](https://github.com/toss/es-toolkit/pull/1726) |
 <!-- merged-contributions:end -->
 
 <br />
