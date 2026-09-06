@@ -5,7 +5,6 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -17,6 +16,22 @@ API_ROOT = "https://api.github.com"
 START_MARKER = "<!-- merged-contributions:start -->"
 END_MARKER = "<!-- merged-contributions:end -->"
 EMPTY_MESSAGE = "_아직 자동으로 수집된 외부 오픈소스 merge 기록이 없습니다._"
+
+
+# Keep reviewed summaries stable; new contributions fall back to their PR title.
+CONTRIBUTION_SUMMARIES = {
+    "https://github.com/toss/es-toolkit/pull/1726": "isNumber 판별 기준을 다른 타입 가드와 일치하도록 수정",
+    "https://github.com/akan-team/akanjs/pull/15": "무한 스크롤 중복 요청 수정",
+    "https://github.com/akan-team/akanjs/pull/16": "파일 미리보기 URL 경로 오류 수정",
+    "https://github.com/reactjs/ko.react.dev/pull/1525": "테스트 도구 지원 중단 안내 한국어 번역",
+    "https://github.com/lodash/lodash/pull/6196": "기여 가이드 링크 오류 수정",
+}
+PROJECT_NAMES = {
+    "toss/es-toolkit": "es-toolkit",
+    "akan-team/akanjs": "Akan.js",
+    "reactjs/ko.react.dev": "React",
+    "lodash/lodash": "Lodash",
+}
 
 
 def env_int(name: str, default: int) -> int:
@@ -160,27 +175,22 @@ def escape_markdown(value: str) -> str:
     )
 
 
-def format_date(value: str) -> str:
-    merged_at = datetime.fromisoformat(value.replace("Z", "+00:00"))
-    return merged_at.astimezone(timezone.utc).strftime("%Y-%m-%d")
-
-
 def render_rows(rows: list[dict[str, str]]) -> str:
     if not rows:
         return EMPTY_MESSAGE
 
     lines = [
-        "| Merged | Repository | Pull Request |",
-        "|:---:|:---|:---|",
+        "| 프로젝트 | 기여 내용 | PR |",
+        "|:---|:---|:---:|",
     ]
 
     for row in rows:
-        title = escape_markdown(row["title"])
-        repo = escape_markdown(row["repo"])
+        title = escape_markdown(CONTRIBUTION_SUMMARIES.get(row["url"], row["title"]))
+        repo = escape_markdown(PROJECT_NAMES.get(row["repo"], row["repo"]))
         number = escape_markdown(row["number"])
         lines.append(
-            f"| {format_date(row['merged_at'])} | [{repo}]({row['repo_url']}) | "
-            f"[#{number} {title}]({row['url']}) |"
+            f"| [{repo}]({row['repo_url']}) | {title} | "
+            f"[#{number}]({row['url']}) |"
         )
 
     return "\n".join(lines)
