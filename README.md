@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=fadeIn&fontColor=434242&fontSize=50" />
 </div>
 
-## 이력
-
 - **2019–2021** · 한국디지털미디어고등학교 웹프로그래밍과
 - **2022–현재** · 인하대학교 공과대학 정보통신공학과
 - **2024.04–2026.01** · 국방통합데이터센터 보안관제
