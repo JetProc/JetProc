@@ -41,6 +41,7 @@
 <!-- merged-contributions:start -->
 | 저장소 | 기여 내용 | PR |
 |:---|:---|:---|
+| [toss/react-simplikit](https://github.com/toss/react-simplikit) | fix(useLongPress): prevent callback from firing after unmount | [#473 fix(useLongPress): prevent callback from firing after unmount](https://github.com/toss/react-simplikit/pull/473) |
 | [lodash/lodash](https://github.com/lodash/lodash) | 기여 가이드 링크 오류 수정 | [#6196 docs: fix typo contributing link in README](https://github.com/lodash/lodash/pull/6196) |
 | [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev) | 테스트 도구 지원 중단 안내 한국어 번역 | [#1525 docs: translate warning pages](https://github.com/reactjs/ko.react.dev/pull/1525) |
 | [akan-team/akanjs](https://github.com/akan-team/akanjs) | 파일 미리보기 URL 경로 오류 수정 | [#16 Use API prefix for local blob URLs](https://github.com/akan-team/akanjs/pull/16) |
