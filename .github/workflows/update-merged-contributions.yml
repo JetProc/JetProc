@@ -14,14 +14,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Verify contribution updater contracts
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py' -v
+
       - name: Update README contribution list
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           README_PATH: README.md
           MAX_ITEMS: "12"
           FETCH_LIMIT: "60"
-          EXCLUDED_OWNERS: JetProc,woowacourse,woowacourse-study
-          EXCLUDED_REPOS: woowacourse-teams/2026-rilog
+          EXCLUDED_OWNERS: JetProc,woowacourse,woowacourse-study,woowacourse-precourse
+          EXCLUDED_REPOS: woowacourse-teams/2026-rilog,my-girin-log/girin-log-front
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/update_merged_contributions.py
 
