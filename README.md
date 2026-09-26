@@ -59,6 +59,10 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS" />
 </p>
 
+### Currently Learning
+
+TypeScript / AI Agents
+
 ## Background
 
 | 기간 | 활동 |
@@ -74,7 +78,3 @@
 <a href="mailto:soonjae8297@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="Gmail" />
 </a>
-
-## Currently Learning
-
-TypeScript / AI Agents
