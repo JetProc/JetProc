@@ -43,7 +43,7 @@ CONTRIBUTIONS = {
         "docs", "기여 가이드 링크 오류 수정"
     ),
     "https://github.com/lodash/lodash/pull/6213": (
-        "code", "배열로 감싼 prototype 경로의 omit·unset 회귀 테스트 추가"
+        "code", "배열로 감싼 prototype 경로의 omit, unset 회귀 테스트 추가"
     ),
     "https://github.com/toss/overlay-kit/pull/229": (
         "docs", "컨텍스트 접근을 위한 OverlayProvider 배치 안내 보완"
