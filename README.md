@@ -68,7 +68,7 @@
 
 ## Projects
 
-### rilog.
+### Rilog.
 
 > 개인 블로그와 팀 블로그 **Co-log**를 함께 운영하는 기록 서비스
 
@@ -100,8 +100,14 @@
 
 ---
 
-## Contact
+## Links
 
 <a href="mailto:soonjae8297@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Email-soonjae8297%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/%EC%88%9C%EC%9E%AC-%EA%B6%8C-3a09b338b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Soonjae%20Kwoun-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://jetproc.tistory.com/">
+  <img src="https://img.shields.io/badge/Blog-jetproc.tistory.com-000000?style=flat-square&amp;logo=tistory&amp;logoColor=white" alt="Blog" />
 </a>
