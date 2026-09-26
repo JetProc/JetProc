@@ -40,9 +40,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&amp;logo=pwa&amp;logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome Extension" />
 </p>
 
-**Quality**
+**Testing / CI**
 
 <p>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" alt="Vitest" />
@@ -51,17 +53,20 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Product / Operation**
+**Product / Operations**
 
 <p>
   <img src="https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&amp;logo=posthog&amp;logoColor=white" alt="PostHog" />
-  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome Extension" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge" alt="AWS S3" />
 </p>
 
 ### Currently Learning
 
-TypeScript / AI Agents
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" alt="AI Agents" />
+</p>
 
 ## Background
 
